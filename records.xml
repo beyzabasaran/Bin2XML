@@ -1,0 +1,753 @@
+<?xml version="1.0"?>
+<records>
+    <row row_id= "1">
+        <name>James😏</name>
+        <surname>Butt</surname>
+        <gender>M</gender>
+        <email>jbutt@gmail.com</email>
+        <phone_number>504-845-1427</phone_number>
+        <address>7 W Cerritos Ave #54</address>
+        <level_of_education>MSc</level_of_education>
+        <income_level bigEnd="1798766592">14187</income_level>
+        <expenditure bigEnd="3758686208">2528</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.33</height>
+        <weight>68</weight>
+    </row>
+    <row row_id= "2">
+        <name>Güliz🚲</name>
+        <surname>Şen</surname>
+        <gender>F</gender>
+        <email>guliz_sen@hotmail.com</email>
+        <phone_number>504-845-1428</phone_number>
+        <address>6 W Cerritos Ave #54</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="3472949248">463</income_level>
+        <expenditure bigEnd="4060610560">2290</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.17</height>
+        <weight>53</weight>
+    </row>
+    <row row_id= "3">
+        <name>Art</name>
+        <surname>Venere</surname>
+        <gender>M</gender>
+        <email>art.venere@hotmail.com</email>
+        <phone_number>856-264-4130</phone_number>
+        <address>8 W Cerritos Ave #54</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="3509714944">13009</income_level>
+        <expenditure bigEnd="3674931200">3035</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>2.00</height>
+        <weight>72</weight>
+    </row>
+    <row row_id= "4">
+        <name>Lenna</name>
+        <surname>Paprocki</surname>
+        <gender>F</gender>
+        <email>lpaprocki@hotmail.com</email>
+        <phone_number>907-921-2010</phone_number>
+        <address>639 Main St</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="3005087744">7859</income_level>
+        <expenditure bigEnd="1461321728">6743</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😭</currentMood>
+        <height>1.20</height>
+        <weight>75</weight>
+    </row>
+    <row row_id= "5">
+        <name>Donette💰</name>
+        <surname>Foller</surname>
+        <gender>M</gender>
+        <email>donette.foller@gmail.com</email>
+        <phone_number>513-549-4561</phone_number>
+        <address>34 Center St</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="790298624">6959</income_level>
+        <expenditure bigEnd="4196335616">8186</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😄</currentMood>
+        <height>1.57</height>
+        <weight>82</weight>
+    </row>
+    <row row_id= "6">
+        <name>Simona</name>
+        <surname>Morasca</surname>
+        <gender>M</gender>
+        <email>simona@yahoo.com</email>
+        <phone_number>513-549-4562</phone_number>
+        <address>3 Mcauley Dr</address>
+        <level_of_education>MSc</level_of_education>
+        <income_level bigEnd="3256549376">7106</income_level>
+        <expenditure bigEnd="3424124928">6348</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.36</height>
+        <weight>86</weight>
+    </row>
+    <row row_id= "7">
+        <name>Mitsue</name>
+        <surname>Tollner</surname>
+        <gender>M</gender>
+        <email>mitsue_tollner@yahoo.com</email>
+        <phone_number>773-924-8565</phone_number>
+        <address>7 Eads St</address>
+        <level_of_education>MSc</level_of_education>
+        <income_level bigEnd="4245159936">2301</income_level>
+        <expenditure bigEnd="1662124032">4707</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.44</height>
+        <weight>46</weight>
+    </row>
+    <row row_id= "8">
+        <name>Aslı</name>
+        <surname>Çağlar</surname>
+        <gender>F</gender>
+        <email>aslicaglar@hotmail.com</email>
+        <phone_number>408-813-1105</phone_number>
+        <address>7 W Jackson Blvd</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="1728380928">1383</income_level>
+        <expenditure bigEnd="3238789120">3265</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.12</height>
+        <weight>56</weight>
+    </row>
+    <row row_id= "9">
+        <name>Sage</name>
+        <surname>Wieser</surname>
+        <gender>M</gender>
+        <email>sage_wieser@gmail.com</email>
+        <phone_number>408-813-1106</phone_number>
+        <address>10 W Cerritos Ave #54</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="3424452608">7628</income_level>
+        <expenditure bigEnd="3910467584">5609</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😭</currentMood>
+        <height>1.91</height>
+        <weight>78</weight>
+    </row>
+    <row row_id= "10">
+        <name>Kris</name>
+        <surname>Marrier</surname>
+        <gender>M</gender>
+        <email>sage_wieser@gmail.com</email>
+        <phone_number>605-794-4895</phone_number>
+        <address>228 Runamuck Pl #2808</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="4030464000">15600</income_level>
+        <expenditure bigEnd="252968960">5135</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.21</height>
+        <weight>64</weight>
+    </row>
+    <row row_id= "11">
+        <name>Minna</name>
+        <surname>Amigon</surname>
+        <gender>F</gender>
+        <email>minna_amigon@yahoo.com</email>
+        <phone_number>215-422-8694</phone_number>
+        <address>2371 Jerrold Ave</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="2920808448">6318</income_level>
+        <expenditure bigEnd="3137667072">1467</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.23</height>
+        <weight>62</weight>
+    </row>
+    <row row_id= "12">
+        <name>Abel✈️</name>
+        <surname>Maclead</surname>
+        <gender>M</gender>
+        <email>amaclead@gmail.com</email>
+        <phone_number>631-677-3675</phone_number>
+        <address>375 St  Rt 17m M</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="1629093888">6753</income_level>
+        <expenditure bigEnd="1678311424">2404</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.19</height>
+        <weight>70</weight>
+    </row>
+    <row row_id= "13">
+        <name>Kiley</name>
+        <surname>Caldarera</surname>
+        <gender>F</gender>
+        <email>kiley.caldarera@gmail.com</email>
+        <phone_number>310-254-3084</phone_number>
+        <address>37276 St  Rt 17m M</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="2583887872">922</income_level>
+        <expenditure bigEnd="3993567232">2542</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.62</height>
+        <weight>69</weight>
+    </row>
+    <row row_id= "14">
+        <name>Graciela</name>
+        <surname>Ruta</surname>
+        <gender>F</gender>
+        <email>gruta@yahoo.com</email>
+        <phone_number>440-579-7763</phone_number>
+        <address>98 Connecticut Ave Nw</address>
+        <level_of_education>PS</level_of_education>
+        <income_level bigEnd="2434203648">6033</income_level>
+        <expenditure bigEnd="3339386880">3015</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😭</currentMood>
+        <height>1.48</height>
+        <weight>77</weight>
+    </row>
+    <row row_id= "15">
+        <name>Cammy</name>
+        <surname>Albares</surname>
+        <gender>M</gender>
+        <email>calbares@gmail.com</email>
+        <phone_number>956-841-7216</phone_number>
+        <address>56 E Morehead St</address>
+        <level_of_education>MSc</level_of_education>
+        <income_level bigEnd="4196728832">9722</income_level>
+        <expenditure bigEnd="471269376">5916</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.79</height>
+        <weight>57</weight>
+    </row>
+    <row row_id= "16">
+        <name>Mattie</name>
+        <surname>Poquette</surname>
+        <gender>M</gender>
+        <email>mattie@hotmail.com</email>
+        <phone_number>602-953-6360</phone_number>
+        <address>73 State Road 434 E</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="4045275136">7921</income_level>
+        <expenditure bigEnd="2215051264">1924</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.56</height>
+        <weight>70</weight>
+    </row>
+    <row row_id= "17">
+        <name>Meaghan</name>
+        <surname>Garufi</surname>
+        <gender>F</gender>
+        <email>meaghan@hotmail.com</email>
+        <phone_number>931-235-7959</phone_number>
+        <address>69734 E Carrillo St</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="1797193728">8043</income_level>
+        <expenditure bigEnd="2652372992">6302</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.90</height>
+        <weight>46</weight>
+    </row>
+    <row row_id= "18">
+        <name>Gladys</name>
+        <surname>Rim</surname>
+        <gender>M</gender>
+        <email>gladys.rim@hotmail.com</email>
+        <phone_number>414-377-2880</phone_number>
+        <address>322 New Horizon Blvd</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="654704640">1575</income_level>
+        <expenditure bigEnd="2451832832">9362</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😄</currentMood>
+        <height>1.89</height>
+        <weight>71</weight>
+    </row>
+    <row row_id= "19">
+        <name>Yuki</name>
+        <surname>Whobrey</surname>
+        <gender>M</gender>
+        <email>gladys.rim@hotmail.com</email>
+        <phone_number>313-341-4470</phone_number>
+        <address>1 State Route 27</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="1983250432">13942</income_level>
+        <expenditure bigEnd="2668298240">2975</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😄</currentMood>
+        <height>1.46</height>
+        <weight>63</weight>
+    </row>
+    <row row_id= "20">
+        <name>Fletcher</name>
+        <surname>Flosi</surname>
+        <gender>M</gender>
+        <email>fletcher.flosi@yahoo.com</email>
+        <phone_number>815-426-5657</phone_number>
+        <address>394 Manchester Blvd</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="1712455680">4710</income_level>
+        <expenditure bigEnd="67698688">2308</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.23</height>
+        <weight>65</weight>
+    </row>
+    <row row_id= "21">
+        <name>Bette</name>
+        <surname>Nicka</surname>
+        <gender>F</gender>
+        <email>bette_nicka@hotmail.com</email>
+        <phone_number>610-492-4643</phone_number>
+        <address>6 S 33rd St</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="3994812416">7406</income_level>
+        <expenditure bigEnd="807534592">8752</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.75</height>
+        <weight>51</weight>
+    </row>
+    <row row_id= "22">
+        <name>Veronika</name>
+        <surname>Inouye</surname>
+        <gender>F</gender>
+        <email>vinouye@hotmail.com</email>
+        <phone_number>610-492-4644</phone_number>
+        <address>6 Greenleaf Ave</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="2669608960">8095</income_level>
+        <expenditure bigEnd="1981153280">5750</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.38</height>
+        <weight>50</weight>
+    </row>
+    <row row_id= "23">
+        <name>Willard</name>
+        <surname>Kolmetz</surname>
+        <gender>F</gender>
+        <email>willard@hotmail.com</email>
+        <phone_number>972-896-4882</phone_number>
+        <address>618 W Yakima Ave</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="990314496">1851</income_level>
+        <expenditure bigEnd="3961716736">9196</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.17</height>
+        <weight>45</weight>
+    </row>
+    <row row_id= "24">
+        <name>Maryann🎧</name>
+        <surname>Royster</surname>
+        <gender>F</gender>
+        <email>mroyster@gmail.com</email>
+        <phone_number>518-448-8982</phone_number>
+        <address>74 S Westgate St</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="658309120">15655</income_level>
+        <expenditure bigEnd="688390144">2089</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😄</currentMood>
+        <height>1.93</height>
+        <weight>86</weight>
+    </row>
+    <row row_id= "25">
+        <name>Alisha</name>
+        <surname>Slusarski</surname>
+        <gender>F</gender>
+        <email>alisha@gmail.com</email>
+        <phone_number>732-635-3453</phone_number>
+        <address>3273 State St</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="3325165568">12998</income_level>
+        <expenditure bigEnd="1510735872">3162</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.22</height>
+        <weight>70</weight>
+    </row>
+    <row row_id= "26">
+        <name>Allene</name>
+        <surname>Iturbide</surname>
+        <gender>F</gender>
+        <email>allene_iturbide@gmail.com</email>
+        <phone_number>715-530-9863</phone_number>
+        <address>3274 State St</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="504627200">5150</income_level>
+        <expenditure bigEnd="370802688">6678</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.40</height>
+        <weight>83</weight>
+    </row>
+    <row row_id= "27">
+        <name>Chanel</name>
+        <surname>Caudy</surname>
+        <gender>F</gender>
+        <email>chanel.caudy@gmail.com</email>
+        <phone_number>913-899-1103</phone_number>
+        <address>86 Nw 66th St #8673</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="4029743104">12784</income_level>
+        <expenditure bigEnd="3424845824">9164</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.46</height>
+        <weight>47</weight>
+    </row>
+    <row row_id= "28">
+        <name>Ezekiel</name>
+        <surname>Chui</surname>
+        <gender>F</gender>
+        <email>chanel.caudy@gmail.com</email>
+        <phone_number>410-235-8738</phone_number>
+        <address>2 Cedar Ave #84</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="3492478976">11216</income_level>
+        <expenditure bigEnd="4246208512">6397</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😭</currentMood>
+        <height>1.16</height>
+        <weight>53</weight>
+    </row>
+    <row row_id= "29">
+        <name>Willow</name>
+        <surname>Kusko</surname>
+        <gender>M</gender>
+        <email>wkusko@yahoo.com</email>
+        <phone_number>410-235-8739</phone_number>
+        <address>90991 Thorburn Ave</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="3761635328">14048</income_level>
+        <expenditure bigEnd="2350055424">5004</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.72</height>
+        <weight>84</weight>
+    </row>
+    <row row_id= "30">
+        <name>Bernardo</name>
+        <surname>Figeroa</surname>
+        <gender>M</gender>
+        <email>bfigeroa@gmail.com</email>
+        <phone_number>936-597-3614</phone_number>
+        <address>386 9th Ave N</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="556597248">11553</income_level>
+        <expenditure bigEnd="1460338688">2903</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.29</height>
+        <weight>60</weight>
+    </row>
+    <row row_id= "31">
+        <name>Ammie</name>
+        <surname>Corrio</surname>
+        <gender>F</gender>
+        <email>ammie@yahoo.com</email>
+        <phone_number>614-648-3265</phone_number>
+        <address>74874 Atlantic Ave</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="1597243392">13407</income_level>
+        <expenditure bigEnd="1092878336">9281</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.61</height>
+        <weight>58</weight>
+    </row>
+    <row row_id= "32">
+        <name>Francine</name>
+        <surname>Vocelka</surname>
+        <gender>M</gender>
+        <email>francine_vocelka@yahoo.com</email>
+        <phone_number>505-335-5293</phone_number>
+        <address>366 South Dr</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="3624009728">728</income_level>
+        <expenditure bigEnd="370147328">4118</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.17</height>
+        <weight>83</weight>
+    </row>
+    <row row_id= "33">
+        <name>Mecnun</name>
+        <surname>Çınar</surname>
+        <gender>M</gender>
+        <email>mecnun_cinar@yahoo.com</email>
+        <phone_number>201-387-9093</phone_number>
+        <address>34450 Kireçburnu St Sarıyer</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="470417408">2588</income_level>
+        <expenditure bigEnd="52035584">6659</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.31</height>
+        <weight>86</weight>
+    </row>
+    <row row_id= "34">
+        <name>Albina </name>
+        <surname>Glick</surname>
+        <gender>M</gender>
+        <email>albina@gmail.com</email>
+        <phone_number>732-782-6701</phone_number>
+        <address>4 Ralph Ct</address>
+        <level_of_education>PS</level_of_education>
+        <income_level bigEnd="406650880">15640</income_level>
+        <expenditure bigEnd="3272474624">3779</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.89</height>
+        <weight>80</weight>
+    </row>
+    <row row_id= "35">
+        <name>Alishia</name>
+        <surname>Sergi</surname>
+        <gender>F</gender>
+        <email>asergi@gmail.com</email>
+        <phone_number>212-753-2740</phone_number>
+        <address>2742 Distribution Way</address>
+        <level_of_education>PS</level_of_education>
+        <income_level bigEnd="789970944">5679</income_level>
+        <expenditure bigEnd="1729822720">7015</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.55</height>
+        <weight>67</weight>
+    </row>
+    <row row_id= "36">
+        <name>Solange</name>
+        <surname>Shinko</surname>
+        <gender>M</gender>
+        <email>solange@gmail.com</email>
+        <phone_number>212-753-2741</phone_number>
+        <address>426 Wolf St</address>
+        <level_of_education>MSc</level_of_education>
+        <income_level bigEnd="422838272">13337</income_level>
+        <expenditure bigEnd="1108606976">5186</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.63</height>
+        <weight>47</weight>
+    </row>
+    <row row_id= "37">
+        <name>Jose</name>
+        <surname>Stockham</surname>
+        <gender>M</gender>
+        <email>jose@yahoo.com</email>
+        <phone_number>212-569-4233</phone_number>
+        <address>128 Bransten Rd</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="823263232">4657</income_level>
+        <expenditure bigEnd="2450587648">4498</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.18</height>
+        <weight>45</weight>
+    </row>
+    <row row_id= "38">
+        <name>Rozella</name>
+        <surname>Ostrosky</surname>
+        <gender>F</gender>
+        <email>rozella.ostrosky@yahoo.com</email>
+        <phone_number>805-609-1531</phone_number>
+        <address>17 Morena Blvd</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="926416896">14391</income_level>
+        <expenditure bigEnd="3525246976">8146</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.50</height>
+        <weight>47</weight>
+    </row>
+    <row row_id= "39">
+        <name>Valentine</name>
+        <surname>Gillian</surname>
+        <gender>F</gender>
+        <email>valentine_gillian@gmail.com</email>
+        <phone_number>210-300-6244</phone_number>
+        <address>775 W 17th St</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="2838757376">13481</income_level>
+        <expenditure bigEnd="3238789120">3265</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😭</currentMood>
+        <height>1.63</height>
+        <weight>85</weight>
+    </row>
+    <row row_id= "40">
+        <name>Kati⏱️</name>
+        <surname>Rulapaugh</surname>
+        <gender>M</gender>
+        <email>kati.rulapaugh@hotmail.com</email>
+        <phone_number>785-219-7724</phone_number>
+        <address>6980 Dorsett Rd</address>
+        <level_of_education>MSc</level_of_education>
+        <income_level bigEnd="3439460352">717</income_level>
+        <expenditure bigEnd="605814784">7204</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.86</height>
+        <weight>86</weight>
+    </row>
+    <row row_id= "41">
+        <name>Youlanda</name>
+        <surname>Schemmer</surname>
+        <gender>M</gender>
+        <email>kati.rulapaugh@hotmail.com</email>
+        <phone_number>541-993-2611</phone_number>
+        <address>6981 Dorsett Rd</address>
+        <level_of_education>MSc</level_of_education>
+        <income_level bigEnd="3694264320">13020</income_level>
+        <expenditure bigEnd="1661599744">2659</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.94</height>
+        <weight>79</weight>
+    </row>
+    <row row_id= "42">
+        <name>Dyan</name>
+        <surname>Oldroyd</surname>
+        <gender>M</gender>
+        <email>doldroyd@hotmail.com</email>
+        <phone_number>913-645-8918</phone_number>
+        <address>7219 Woodfield Rd</address>
+        <level_of_education>PhD</level_of_education>
+        <income_level bigEnd="4045930496">10481</income_level>
+        <expenditure bigEnd="2316566528">5258</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😄</currentMood>
+        <height>1.51</height>
+        <weight>79</weight>
+    </row>
+    <row row_id= "43">
+        <name>Ali Rıza</name>
+        <surname>Tekin</surname>
+        <gender>M</gender>
+        <email>arıza_tekin@hotmail.com</email>
+        <phone_number>907-335-6568</phone_number>
+        <address>1048 Beykoz St</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="3945791488">12523</income_level>
+        <expenditure bigEnd="3473539072">2767</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.84</height>
+        <weight>85</weight>
+    </row>
+    <row row_id= "44">
+        <name>Acun</name>
+        <surname>Ilıcalı</surname>
+        <gender>M</gender>
+        <email>acun_ilicali@hotmail.com</email>
+        <phone_number>305-995-2078</phone_number>
+        <address>678 Teşvikiye İstanbul</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="102694912">7942</income_level>
+        <expenditure bigEnd="1141178368">1348</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😄</currentMood>
+        <height>1.38</height>
+        <weight>48</weight>
+    </row>
+    <row row_id= "45">
+        <name>Erick</name>
+        <surname>Ferencz</surname>
+        <gender>M</gender>
+        <email>erick.ferencz@hotmail.com</email>
+        <phone_number>305-995-2079</phone_number>
+        <address>20 S Babcock St</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="103743488">12038</income_level>
+        <expenditure bigEnd="1712193536">3686</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😄</currentMood>
+        <height>1.95</height>
+        <weight>57</weight>
+    </row>
+    <row row_id= "46">
+        <name>Fatima</name>
+        <surname>Saylors</surname>
+        <gender>F</gender>
+        <email>fsaylors@hotmail.com</email>
+        <phone_number>952-479-2375</phone_number>
+        <address>2 Lighthouse Ave</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="2285174784">13704</income_level>
+        <expenditure bigEnd="3070623744">1719</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.96</height>
+        <weight>50</weight>
+    </row>
+    <row row_id= "47">
+        <name>Jina</name>
+        <surname>Briddick</surname>
+        <gender>F</gender>
+        <email>jina_briddick@gmail.com</email>
+        <phone_number>617-997-5771</phone_number>
+        <address>38938 Park Blvd</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="2351497216">10636</income_level>
+        <expenditure bigEnd="923205632">1847</expenditure>
+        <currency_unit>$</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>1.63</height>
+        <weight>56</weight>
+    </row>
+    <row row_id= "48">
+        <name>Kanisha</name>
+        <surname>Waycott</surname>
+        <gender>F</gender>
+        <email>kanisha_waycott@yahoo.com</email>
+        <phone_number>323-315-7314</phone_number>
+        <address>5 Tomahawk Dr</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="1259012096">2891</income_level>
+        <expenditure bigEnd="3808952320">2275</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>☹</currentMood>
+        <height>1.36</height>
+        <weight>79</weight>
+    </row>
+    <row row_id= "49">
+        <name>Emerson</name>
+        <surname>Bowley</surname>
+        <gender>M</gender>
+        <email>emerson.bowley@gmail.com</email>
+        <phone_number>608-658-7940</phone_number>
+        <address>762 S Main St</address>
+        <level_of_education>BSc</level_of_education>
+        <income_level bigEnd="2553937920">15000</income_level>
+        <expenditure bigEnd="2099511296">9341</expenditure>
+        <currency_unit>€</currency_unit>
+        <currentMood>😊</currentMood>
+        <height>2.00</height>
+        <weight>74</weight>
+    </row>
+    <row row_id= "50">
+        <name>Blair</name>
+        <surname>Malet</surname>
+        <gender>F</gender>
+        <email>bmalet@yahoo.com</email>
+        <phone_number>215-794-4519</phone_number>
+        <address>209 Decker Dr</address>
+        <level_of_education>HS</level_of_education>
+        <income_level bigEnd="2754936832">13732</income_level>
+        <expenditure bigEnd="3591634944">5334</expenditure>
+        <currency_unit>₺</currency_unit>
+        <currentMood>😭</currentMood>
+        <height>1.55</height>
+        <weight>90</weight>
+    </row>
+</records>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <xsd:element name="records">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="row" maxOccurs="unbounded">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="name" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+              <xsd:element name="surname" type="surname" minOccurs="0" maxOccurs="unbounded"/>
+              <xsd:element name="gender" type="gender"/>
+              <xsd:element name="email" type="email"/>
+              <xsd:element name="phone_number" type="phone_number"/>
+              <xsd:element name="address" type="xsd:string"/>
+              <xsd:element name="level_of_education" type="xsd:string"/>
+              <xsd:element name="income_level">
+                <xsd:complexType>
+                  <xsd:simpleContent>
+                    <xsd:extension base="xsd:integer">
+                      <xsd:attribute name="bigEnd" type="xsd:integer" use="required"/>
+                    </xsd:extension>
+                  </xsd:simpleContent>
+                </xsd:complexType>
+              </xsd:element>
+              <xsd:element name="expenditure">
+                <xsd:complexType>
+                  <xsd:simpleContent>
+                    <xsd:extension base="xsd:integer">
+                      <xsd:attribute name="bigEnd" type="xsd:integer" use="required"/>
+                    </xsd:extension>
+                  </xsd:simpleContent>
+                </xsd:complexType>
+              </xsd:element>
+              <xsd:element name="currency_unit" type="currency_unit"/>
+              <xsd:element name="currentMood" type="currentMood"/>
+              <xsd:element name="height" type="height"/>
+              <xsd:element name="weight" type="weight"/>
+            </xsd:sequence>
+            <xsd:attribute name="row_id" type="xsd:string" use="required"/>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element> 
+  <xsd:simpleType name="surname">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="([A-ZIİĞÖÜŞÇ])\w+"/>    
+    </xsd:restriction>
+</xsd:simpleType>
+  <xsd:simpleType name="gender">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="F|M"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="email">
+    <xsd:restriction base="xsd:string">
+    <xsd:pattern value="[A-ZÜŞİÖÇĞa-zıüşöçğ0-9_]+([-+.'][A-ZÜŞİÖÇĞa-zıüşöçğ0-9_]+)*@[A-Za-z0-9_]+([-.][A-Za-z0-9_]+)*\.[A-Za-z0-9_]+([-.][A-Za-z0-9_]+)*" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="phone_number">
+    <xsd:restriction base="xsd:string">
+         <xsd:length value="12"/>
+         <xsd:pattern value="[0-9]{3}-[0-9]{3}-[0-9]{4}"/>
+    </xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="currency_unit">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="$"/>
+      <xsd:enumeration value="€"/> 
+      <xsd:enumeration value="₺"/>         
+    </xsd:restriction>
+</xsd:simpleType> 
+<xsd:simpleType name="currentMood">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="😊"/>
+      <xsd:enumeration value="☹"/> 
+      <xsd:enumeration value="😭"/> 
+      <xsd:enumeration value="😄"/>        
+    </xsd:restriction>
+</xsd:simpleType> 
+<xsd:simpleType name="height">
+    <xsd:restriction base="xsd:float">
+         <xsd:minInclusive value="1.0"/>
+         <xsd:maxInclusive value="2.0"/>
+    </xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="weight">
+    <xsd:restriction base="xsd:integer">
+         <xsd:minInclusive value="40"/>
+         <xsd:maxInclusive value="90"/>
+    </xsd:restriction>
+</xsd:simpleType>
+
+</xsd:schema>
